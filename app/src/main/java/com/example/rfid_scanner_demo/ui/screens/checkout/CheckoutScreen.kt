@@ -1,12 +1,12 @@
-package com.example.rfid_scanner_demo.ui.screens.home
+package com.example.rfid_scanner_demo.ui.screens.checkout
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 
 @Composable
-fun HomeScreen() {
+fun CheckoutScreen() {
     Column() {
-        Text(text = "This is the home screen")
+        Text(text = "This is the checkout screen")
     }
 }

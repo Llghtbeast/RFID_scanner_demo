@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             RFID_scanner_demoTheme {
                 Surface {
-                    Navigation()
+                    Navigation(modifier = Modifier)
                 }
             }
         }
