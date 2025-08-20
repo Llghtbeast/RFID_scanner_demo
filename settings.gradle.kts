@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "RFID_scanner_demo"
 include(":app")
- 
+include(":zebrarfid")
